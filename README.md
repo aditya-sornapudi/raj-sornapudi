@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Vineeth.
+
+[![Vineeth's github stats](https://github-readme-stats.vercel.app/api?username=aditya-vineeth)](https://github.com/aditya-vineeth/github-readme-stats)
+
+
 
 <!--
 **aditya-vineeth/aditya-vineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
