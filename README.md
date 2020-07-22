@@ -2,6 +2,9 @@
 
 [![Vineeth's github stats](https://github-readme-stats.vercel.app/api?username=aditya-vineeth)](https://github.com/aditya-vineeth/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-vineeth)](https://github.com/aditya-vineeth/github-readme-stats)
+
+
 
 
 <!--
