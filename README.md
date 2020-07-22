@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Vineeth.
 
-[![Vineeth's github stats](https://github-readme-stats.vercel.app/api?username=aditya-vineeth)](https://github.com/aditya-vineeth/github-readme-stats)
 ![Vineeth's github stats](https://github-readme-stats.vercel.app/api?username=aditya-vineeth&show_icons=true)
 
 
