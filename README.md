@@ -1,7 +1,6 @@
 
 
-### Hi there 👋 I'm Vineeth. 
-### Just getting started with Data Science and ML.
+### Hi there 👋 I'm Raj. 
 
 [<img src="https://img.shields.io/badge/kaggle-%23000000.svg?style=for-the-badge&logo=kaggle&logoColor=white%22" />](https://www.kaggle.com/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)
