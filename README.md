@@ -4,7 +4,7 @@
 ### Just getting started with Data Science and ML.
 
 [<img src="https://img.shields.io/badge/kaggle-%23000000.svg?style=for-the-badge&logo=kaggle&logoColor=white%22" />](https://www.kaggle.com/adityavineeth)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdityaVineeth)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aditya-vineeth&show_icons=true&theme=radical&line_height=33">
